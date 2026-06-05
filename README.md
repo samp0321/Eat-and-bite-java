@@ -17,7 +17,7 @@ La aplicación importa lo siguiente:
 - import java.util.Scanner; : El Scanner nos ayuda a leer la información que el usuario escribe en la consola, como lo es su nombre de usuario, contraseña, productos seleccionado y entre otros.
 - import java.util.ArrayList; : El ArrayList nos ayuda a guardar y organizar nuestra lista de productos con sus respectivos precios en la memoria del programa.
 
-Código: 
+⚡Código: 
 
 - System.out.print : Nos ayuda a imprimir el texto para el usuario y es bastante utilizado en el programa.
 - int, String : Nos ayuda a almacenar datos que el cliente le da al programa.
@@ -26,3 +26,7 @@ Código:
 - for: Nos permite ahorrar código al automatizar la tarea de recorrer la lista.
 - While: Nos permite tener un bucle activo, el cual le sirve al cliente para añadir los productos que quiera al carrito.
 - if: Nos genera casos donde el cliente si cumple ciertas condiciones, el cliente tendra o recibira un dato. Un ejemplo es el cupon, el cual si el cliente no lo ingresa, será invalido. Este se acompaña con un else.
+
+# 📖 Diagrama de flujo
+
+Link: https://mermaid.ai/d/5c465687-7aa0-48c9-88d3-3b254afaf183
